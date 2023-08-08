@@ -1,0 +1,2 @@
+#!/bin/bash
+eco $((128 + $TRUEKNOWLEDGE))
