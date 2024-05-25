@@ -1,4 +1,5 @@
-s container so that Nginx is running as the nginx user.
+#!/usr/bin/env bash
+# Fix this container so that Nginx is running as the nginx user.
 # Requirements:
 # nginx must be running as nginx user
 # nginx must be listening on all active IPs on port 8080
